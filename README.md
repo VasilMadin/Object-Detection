@@ -1,5 +1,5 @@
 # Object-Detection
-Simple Object Detection program using ml5.js 
+Simple Object Detection program using ml5.js and p5.js
 
 
 Hi guys, it's me again.. I'm here with a new project using ml5.js and p5.js
